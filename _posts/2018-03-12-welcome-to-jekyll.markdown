@@ -1,24 +1,36 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First poem I wrote - Journey to a thing called love"
 date:   2018-03-12 10:26:17 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Journey to a thing called love <br/> 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+There's a thing in my mind <br/>
+Struggling to get out <br/>
+Finding way through the grind <br/>
+But no it can't shout <br/>
 
-Jekyll also offers powerful support for code snippets:
+What is next, I don't know <br/>
+It's all about the thing that I told <br/>
+Sometimes you just want to grow <br/>
+Without just getting too old <br/>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Love may be what people say <br/>
+I don't know what to say <br/>
+Because I only want that one way <br/>
+The way that leads to you <br/>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+It may be today or tomorrow <br/>
+But I think there's always a time <br/>
+The time to find that you're grown <br/>
+To find that it's not always what you pine <br/>
+
+So just believe in that you <br/>
+To always find the truth <br/>
+But one day will surely come <br/>
+When you find me and I find you <br/>
+ 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
