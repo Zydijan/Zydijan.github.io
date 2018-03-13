@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We are a 4 piece band based in Mumbai, India. There is a definitive reason behind the title - Past and Future. We were geographically together till July 31, 2017 but the Lead Vocalist of our band is studying Music Technology in the US. and Bass Guitarist is studying Mechanical Engineering in a different state in India, while the rest of the members are in Mumbai. But we this is not stopping us from putting out content like before and we clearly see and have always seen a future together. So, here’s our story. We hope to produce quality content like we have always strived for. 
