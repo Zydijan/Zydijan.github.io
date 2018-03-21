@@ -32,7 +32,7 @@ To always find the truth <br/>
 But one day will surely come <br/>
 When you find me and I find you <br/>
 
-{% include youtube_embed.html id="c4RDpGHxuvs" %} 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
