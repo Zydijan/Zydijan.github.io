@@ -1,38 +1,33 @@
 ---
 layout: post
-title:  "First poem I wrote - Journey to a thing called love"
-date:   2018-03-12 10:26:17 +0530
+title: "Start Again - Simplicity (Live at NMIMS) - AS"
+date:   2018-03-23 10:26:17 +0530
 categories: jekyll update
 comments: true
 ---
-# Journey to a thing called love <br/> 
+# An original after years! <br/> 
 
-There's a thing in my mind <br/>
-Struggling to get out <br/>
-Finding way through the grind <br/>
-But no it can't shout <br/>
+Hey guys! <br/> 
 
-What is next, I don't know <br/>
-It's all about the thing that I told <br/>
-Sometimes you just want to grow <br/>
-Without just getting too old <br/>
+It's been quite a time since we've uploaded any original songs. This doesn't mean <br/> 
+that we've stopped working on them, they're being worked on all the time and perfected. <br/> 
+This was a perfect opportunity to show this song to the public for the first time. <br/> 
+Showcasing a new start for Simplicity! <br/> 
 
-Love may be what people say <br/>
-I don't know what to say <br/>
-Because I only want that one way <br/>
-The way that leads to you <br/>
+-AS <br/> 
 
-It may be today or tomorrow <br/>
-But I think there's always a time <br/>
-The time to find that you're grown <br/>
-To find that it's not always what you pine <br/>
+Explore more about us on the links below- <br/> 
+Facebook:- https://www.facebook.com/simplicityof... <br/> 
+SoundCloud- https://soundcloud.com/simplicity-rnr <br/> 
 
-So just believe in that you <br/>
-To always find the truth <br/>
-But one day will surely come <br/>
-When you find me and I find you <br/>
+We are always ready to interact with the audience!... <br/> 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+Thank you! <br/> 
+Stay Tuned... <br/> 
+
+Simplicity. <br/> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sNiXVB_vcqU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
