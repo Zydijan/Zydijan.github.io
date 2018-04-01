@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Start Again - Simplicity (Live at NMIMS) - AS"
-date:   2018-03-23 10:26:17 +0530
+title: "Life as a Designer"
+date:   2018-04-01 10:26:17 +0530
 categories: jekyll update
 comments: true
 ---
