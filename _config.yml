@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a blog for Simplicity - An Alternative/Rock band, from Thane, India.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @atharvgt
+twitter_username: atharvgt
 github_username:  zydijan
 google_analytics: UA-115620825-1
 
